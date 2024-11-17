@@ -19,6 +19,12 @@ FurryBuddies is a Django web application that provides a platform for pet owners
 - **Author Profile**: View the author’s details, including the total number of pets and posts.
 - **Delete Profiles and Posts**: When a user profile is deleted, all associated posts are removed from the platform.
 
+## Images
+![Home Screen](static/images/furry_screenshots/Screenshot%20from%202024-11-17%2012-29-43.png)
+![Create Profile](static/images/furry_screenshots/Screenshot%20from%202024-11-17%2012-30-05.png)
+![Profile Details](static/images/furry_screenshots/Screenshot%20from%202024-11-17%2012-31-56.png)
+![Published Posts](static/images/furry_screenshots/Screenshot%20from%202024-11-17%2012-36-08.png)
+
 ## Installation
 
 1. **Clone the repository**:
